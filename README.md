@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Yong An Hong 👋
 
-<!--
-**itzyongan/itzyongan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Cybersecurity Student at the American University of Phnom Penh (AUPP)**
 
-Here are some ideas to get you started:
+I'm passionate about cybersecurity, technology, and understanding how systems work. I enjoy exploring security concepts, building projects, and continuously developing my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 Interests
+- Cybersecurity and information security
+- Network security and system administration
+- Ethical hacking and penetration testing
+- Programming and software development
+- Security research and continuous learning
+
+### 🚀 Featured Projects
+- **[Asia PvP Servers](https://github.com/itzyongan/asia-pvp-servers)** – Asia-focused Minecraft PvP server project.
+- **[Password Strength Checker](https://github.com/itzyongan/password-strength-checker)** – A tool for evaluating password strength.
+- **[Portfolio](https://github.com/itzyongan/portfolio)** – My personal portfolio website.
+
+### 🛠️ What I'm Working Toward
+Building a strong foundation in cybersecurity, gaining hands-on experience, and developing practical skills to help make technology safer.
+
+### 📫 Connect With Me
+- GitHub: [@itzyongan](https://github.com/itzyongan)
+
+---
+
+*Learning, exploring, and securing the digital world — one step at a time.*
